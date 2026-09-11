@@ -22,6 +22,7 @@ npm run dev
 
 
 Open http://localhost:5173 in your browser.
+```bash
 
 💡 What the App Delivers
 O1 — The Verdict: Borrow, Borrow Less, or Don't Borrow (reaches a strict "Don't" on debt spirals).
