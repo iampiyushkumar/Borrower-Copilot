@@ -304,5 +304,3 @@ Borrower Copilot focuses on a different question:
 
 > **"How much should you actually borrow?"**
 
-The objective is to give borrowers a **clear, transparent, and data-driven position before entering a lending conversation.**
->>>>>>> f1d00c0 (readme updated)
