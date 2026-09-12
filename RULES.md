@@ -1,0 +1,14 @@
+# RULES.md — Underwriting Logic, Cutoffs, & Regulatory Assumptions
+
+| Metric / Rule | Value / Cutoff | Why (Financial Rationale) | Source / Standard |
+| :--- | :--- | :--- | :--- |
+| **Tier-1 FOIR Ceiling** | 60% of Net Income (for Income $\ge$ ₹1,00,000/mo) | High-income earners have lower subsistence living costs relative to income, leaving higher surplus for debt servicing. | RBI Retail Underwriting Norms |
+| **Mid-Tier FOIR Ceiling** | 50% of Net Income (for Income ₹35,000 – ₹99,999/mo) | Balances essential expenditures with debt repayment to prevent reliance on emergency loans. | Standard Indian Banking Practice |
+| **Informal/Low FOIR Ceiling**| 40% of Net Income (for Income < ₹35,000/mo) | Low-income households spend a larger fraction on food, utilities, and education; vulnerable to inflationary shocks. | RBI Microfinance Lending Directions |
+| **Safe Borrower Surplus Buffer** | 40% Retention Factor (Debt consumes max 60% of Free Cashflow) | Lenders evaluate top-line income; borrower survival requires retaining 40% of true post-expense surplus for contingencies. | Borrower Advocacy / My Judgement |
+| **Secured LAP LTV Haircut** | 55% of Assessed Property Value | Unencumbered commercial/kirana shop premises face illiquidity and legal realization delays under SARFAESI enforcement. | Commercial Mortgage Risk Guidelines |
+| **Predatory Debt Spiral Flag** | Existing debt at $\ge 25\%$ APR + Recent Bounce | High-interest unsecured loans combined with repayment failures lead to loan stacking; new credit worsens default probability. | RBI Digital Lending Guidelines |
+| **CIBIL Prime Risk Discount** | $\ge 750$: $-200\text{ to } -250\text{ bps}$ off base rate | Prime repayment track record lowers expected loss-given-default; qualifies for zero foreclosure penalties. | Credit Bureau Risk Tiers |
+| **Unknown Credit Score Spread** | Band widens by $\pm 2.0\%$; Confidence drops by 20% | Informational asymmetry prevents pinpoint rate discovery; wider range protects borrower from false expectations. | Asymmetric Information Pricing |
+| **True APR Formulation** | $\text{Nominal Rate} + \frac{\text{Processing Fee} \times 1.18}{\text{Tenure in Years}}$ | Lenders disguise processing charges (1.0%–2.0%) and mandatory 18% GST as one-time fees; annualizing reveals genuine borrowing cost. | RBI Fact Sheet / APR Guidelines |
+| **Macro Stress Shock Test** | $+200\text{ bps}$ Rate Hike OR $-20\%$ Net Household Income Dip | Assesses if loan commitments remain survivable without default when macroeconomic rates rise or gig/business earnings drop. | Basel Retail Stress Testing Framework |
