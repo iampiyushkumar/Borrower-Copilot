@@ -45,7 +45,7 @@ Target Product: Unsecured Personal Loan (Max ₹5,00,000)
                        charges and waiver of documentation fee.
 • Contingency Clause : Pre-payment allowed anytime without lock-in penalty.
 ================================================================================
-
+```
 
 ## 2. Ravi (42, Mysuru) — Self-Employed Kirana Store Owner
 
@@ -89,7 +89,7 @@ Target Product: Loan Against Property (LAP) / Secured Business (₹15,00,000)
 • Contingency Clause : Demand linked floating rate (EBLR) with explicit spread cap.
 ================================================================================
 
-
+```
 
 ## 3. Anita (35, Hubballi) — Informal Delivery Rider & Home Tailor
 
